@@ -1,0 +1,7 @@
+1 : Very dry - no soil moisture measurable in the profile; soils dry throughout the growing season
+2 : Dry - soil moisture limited; moisture only in the upper profile and depleted by mid-season
+3 : Moderately dry - moisture present in the upper profile for part of the growing season
+4 : Moderately moist - moisture available in the upper profile through most of the growing season
+5 : Moist - moisture present in the upper profile through the growing season with few deficits
+6 : Wet - moisture in the upper profile through most of the growing season; occasional brief deficits
+7 : Very wet - saturated conditions persist in the upper profile for much of the growing season

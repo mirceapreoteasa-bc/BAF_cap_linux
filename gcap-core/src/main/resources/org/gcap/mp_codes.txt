@@ -1,0 +1,5 @@
+N : No process - no modifying process applied; the material is as naturally occurring
+A : Avalanche - modified by avalanche activity
+F : Failure, land slide - modified by slope failure or landsliding
+B : River channeling - modified by river channeling
+V : Gully erosion - modified by gully erosion

@@ -1,0 +1,4 @@
+A : Poor - very low nutrient availability; strong limitation by one or more nutrients
+B : Medium - intermediate nutrient availability; moderate limitation by one or more nutrients
+C : Good - adequate nutrient availability; little limitation by nutrient supply
+D : Very good - high nutrient availability; no significant nutrient limitation
